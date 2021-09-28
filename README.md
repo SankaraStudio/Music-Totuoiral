@@ -11,3 +11,4 @@
  - Discord.js@v13.x
 
 หากโค้ดมีปัญหา ติดต่อ[ที่นี่](https://invite.maewgrill-discord.gq)ได้เลย
+คำสั่งอื่นๆ อ่านใน [Npm Package](https://www.npmjs.com/package/@koenie06/discord.js-music)ต่อเอาเองนะคะ
