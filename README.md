@@ -3,7 +3,7 @@
 [Sankara](https://sankara.maewgrill-discord.gq)
 
 รันบอทด้วยคำสั่ง
-``` node index ```
+``` npm install && clear && node index ```
 
 ต้องการอะไรบ้าง?
  - Nodejs@v16.6 หรือสูงกว่านั้น (ต่ำกว่านี้ไม่ได้)
