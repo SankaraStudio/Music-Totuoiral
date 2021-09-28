@@ -1,0 +1,7 @@
+clear
+
+npm install
+
+
+
+nodd .
