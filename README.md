@@ -1,4 +1,4 @@
-# Codeed by Maww#3344
+# Coded by Maww#3344
 
 [Sankara](https://sankara.maewgrill-discord.gq)
 
