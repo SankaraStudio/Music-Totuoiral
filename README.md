@@ -1,4 +1,5 @@
-# Coded by Maww#3344
+# Coded by Maew#3344
+# บอทเล่นเพลงง่ายๆด้วย slash command
 
 [Sankara](https://sankara.maewgrill-discord.gq)
 
