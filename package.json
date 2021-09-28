@@ -1,0 +1,39 @@
+{
+  "name": "yue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com"
+  },
+  "keywords": [
+    "sankara"
+  ],
+  "author": "jirayu",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^16.10.0",
+    "npm": "^7.24.1"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/collection": "^0.2.1",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.6.0",
+    "@koenie06/discord.js-music": "^1.2.9",
+    "chalk": "^4.1.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^13.1.0",
+    "enmap": "^5.8.7",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "^0.0.8",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
+  }
+}
