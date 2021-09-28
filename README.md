@@ -4,7 +4,7 @@
 > [Npm](https://www.npmjs.com/package/@koenie06/discord.js-music)
 
 # 💙 รันบอทด้วยคำสั่ง
-```js
+```shell
 npm install && clear && node .
 ```
 
